@@ -38,7 +38,7 @@ def PlayWrapper(command):
                     [
                         InlineKeyboardButton(
                             text="ʜᴏᴡ ᴛᴏ ғɪx ?",
-                            callback_data="AnonymousAdmin",
+                            callback_data="AlemAdmin",
                         ),
                     ]
                 ]
@@ -207,7 +207,7 @@ def CPlayWrapper(command):
                     [
                         InlineKeyboardButton(
                             text="ʜᴏᴡ ᴛᴏ ғɪx ?",
-                            callback_data="AnonymousAdmin",
+                            callback_data="AlemAdmin",
                         ),
                     ]
                 ]
