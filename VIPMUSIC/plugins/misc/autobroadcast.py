@@ -1,4 +1,4 @@
-import asyncio7
+import asyncio
 import datetime
 from VIPMUSIC import app
 from pyrogram import Client
